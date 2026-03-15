@@ -20,9 +20,6 @@ macOS Sonoma
 macOS Sequoia (may have some bugs)
 macOS Tahoe (sometimes unusable)
 
-What can you do with it?
-You can modify the code, and choose another name, but put me in the credits or else the thing will be taken down
-
 MIT License
 
 Copyright (c) [2026] [The3DSHacker]
@@ -43,4 +40,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE. Credit me please if you do this.
